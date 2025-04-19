@@ -1455,3 +1455,180 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.19-01.31.19:590][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 719.991150
 [2025.04.19-01.31.20:587][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.04.19-01.31.20:588][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 720.656250, Update Interval: 359.608154
+[2025.04.19-01.35.54:449][961]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.04.19-01.35.54:622][962]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.19-01.36.09:603][648]Cmd: DELETE
+[2025.04.19-01.36.09:603][648]Cmd: ACTOR DELETE
+[2025.04.19-01.36.09:623][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:627][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:629][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:630][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:632][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:634][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:636][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:638][648]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.19-01.36.09:748][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.19-01.36.09:750][648]LogEditorActor: Deleted 8 Actors (0.138 secs)
+[2025.04.19-01.36.40:010][889]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.19-01.36.40:233][899]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.19-01.36.41:039][939]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.19-01.36.43:423][ 29]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.19-01.36.43:631][ 39]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.19-01.36.44:635][ 85]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.19-01.37.18:214][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.19-01.37.18:234][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1
+[2025.04.19-01.37.18:234][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/BEYC27T14FHBU6LF2F60RR_Auto1274F7CAB49B7EC24D186328D1773C54F.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1.uasset'
+[2025.04.19-01.37.19:499][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/QNN58PPG6E8JWPU816NG5Q_Auto1
+[2025.04.19-01.37.19:499][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/QNN58PPG6E8JWPU816NG5Q_Auto1A1F659284CA98146761001954C5B3C6D.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/QNN58PPG6E8JWPU816NG5Q_Auto1.uasset'
+[2025.04.19-01.37.19:511][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BY/WRW8RYPIHJK2P0GHTGUODW_Auto1
+[2025.04.19-01.37.19:511][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/WRW8RYPIHJK2P0GHTGUODW_Auto166A20A3140401D6EF3BB998A3F435489.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BY/WRW8RYPIHJK2P0GHTGUODW_Auto1.uasset'
+[2025.04.19-01.37.19:523][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/2M661R8RTCFOPZ2MTZ4QCI_Auto1
+[2025.04.19-01.37.19:523][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/2M661R8RTCFOPZ2MTZ4QCI_Auto1229F4B684EF248996E510795F3527E46.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/2M661R8RTCFOPZ2MTZ4QCI_Auto1.uasset'
+[2025.04.19-01.37.19:536][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I5/XPEBJ3LY73Y8JAUR3E4OBB_Auto1
+[2025.04.19-01.37.19:536][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/XPEBJ3LY73Y8JAUR3E4OBB_Auto1AE8F05894B020DAFD5D2DB97E0F4576C.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I5/XPEBJ3LY73Y8JAUR3E4OBB_Auto1.uasset'
+[2025.04.19-01.37.19:550][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4U/XRRLT5TGO6Y1M9D7UKMX4U_Auto1
+[2025.04.19-01.37.19:550][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/XRRLT5TGO6Y1M9D7UKMX4U_Auto12F2402774B266E58067D10BD65B29032.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4U/XRRLT5TGO6Y1M9D7UKMX4U_Auto1.uasset'
+[2025.04.19-01.37.19:566][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EK/2PR3AJVY3ZW152LAEOJMT6_Auto1
+[2025.04.19-01.37.19:566][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/2PR3AJVY3ZW152LAEOJMT6_Auto1DE99426A463172505AB526A22BDBB8E5.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EK/2PR3AJVY3ZW152LAEOJMT6_Auto1.uasset'
+[2025.04.19-01.37.19:582][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/79/UFPBL8B3J91A5MDWCNB051_Auto1
+[2025.04.19-01.37.19:582][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/UFPBL8B3J91A5MDWCNB051_Auto1BB55D194474508EB3BD9379AC04FE726.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/79/UFPBL8B3J91A5MDWCNB051_Auto1.uasset'
+[2025.04.19-01.37.19:599][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/01D9NUSPXXISK0CKPYVUUR_Auto1
+[2025.04.19-01.37.19:599][683]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/01D9NUSPXXISK0CKPYVUUR_Auto1FA1A927A48DF8A69ADF322BACA2A854C.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/01D9NUSPXXISK0CKPYVUUR_Auto1.uasset'
+[2025.04.19-01.37.19:608][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 1.421
+[2025.04.19-01.37.19:608][683]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.421
+[2025.04.19-01.37.21:367][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.04.19-01.37.22:357][771]LogSlate: Window 'Save Content' being destroyed
+[2025.04.19-01.37.24:025][771]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.19-01.37.24:025][771]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.19-01.37.28:217][771]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/': No such file or directory
+[2025.04.19-01.37.28:217][771]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/': No such file or directory
+[2025.04.19-01.37.28:321][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.19-01.37.30:568][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.19-01.37.30:637][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.19-01.37.30:662][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.19-01.37.39:016][771]SourceControl: Error: Updated 0 paths from the index
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset'
+[2025.04.19-01.37.42:221][771]SourceControl: rm 'Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset'
+[2025.04.19-01.37.42:247][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/79/UFPBL8B3J91A5MDWCNB051
+[2025.04.19-01.37.42:248][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/UFPBL8B3J91A5MDWCNB0519FF27A1741A913B6C37C64B6E2F99E1F.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/79/UFPBL8B3J91A5MDWCNB051.uasset'
+[2025.04.19-01.37.42:262][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/01D9NUSPXXISK0CKPYVUUR
+[2025.04.19-01.37.42:262][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/01D9NUSPXXISK0CKPYVUURF41893CA42421A980C1D5DBBBD682B22.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/01D9NUSPXXISK0CKPYVUUR.uasset'
+[2025.04.19-01.37.42:272][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2025.04.19-01.37.42:274][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/BEYC27T14FHBU6LF2F60RR1D5DCB3C470F42020C252FB0A531EB3E.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2025.04.19-01.37.42:288][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/QNN58PPG6E8JWPU816NG5Q
+[2025.04.19-01.37.42:288][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/QNN58PPG6E8JWPU816NG5Q4FEC444B40917C96707AC49597081192.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/QNN58PPG6E8JWPU816NG5Q.uasset'
+[2025.04.19-01.37.42:301][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BY/WRW8RYPIHJK2P0GHTGUODW
+[2025.04.19-01.37.42:301][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/WRW8RYPIHJK2P0GHTGUODW14C346E14D52582D910F6F9334953262.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BY/WRW8RYPIHJK2P0GHTGUODW.uasset'
+[2025.04.19-01.37.42:315][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/2M661R8RTCFOPZ2MTZ4QCI
+[2025.04.19-01.37.42:315][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/2M661R8RTCFOPZ2MTZ4QCI3A9B8F734F0C2F6FB686AD8AF056146F.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/2M661R8RTCFOPZ2MTZ4QCI.uasset'
+[2025.04.19-01.37.42:330][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I5/XPEBJ3LY73Y8JAUR3E4OBB
+[2025.04.19-01.37.42:331][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/XPEBJ3LY73Y8JAUR3E4OBB7F57257747EBF47C1A12EEBF609215EA.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I5/XPEBJ3LY73Y8JAUR3E4OBB.uasset'
+[2025.04.19-01.37.42:347][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4U/XRRLT5TGO6Y1M9D7UKMX4U
+[2025.04.19-01.37.42:348][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/XRRLT5TGO6Y1M9D7UKMX4U7FCA7CD34D76380864A3EA8041889679.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4U/XRRLT5TGO6Y1M9D7UKMX4U.uasset'
+[2025.04.19-01.37.42:362][771]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EK/2PR3AJVY3ZW152LAEOJMT6
+[2025.04.19-01.37.42:363][771]LogSavePackage: Moving 'C:/Users/AJ/Desktop/School/GitHub_Test/Saved/2PR3AJVY3ZW152LAEOJMT6AFB5515746CC37534C5BE2A18BAF8391.tmp' to 'C:/Users/AJ/Desktop/School/GitHub_Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EK/2PR3AJVY3ZW152LAEOJMT6.uasset'
+[2025.04.19-01.37.45:484][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 17.1 sec
+[2025.04.19-01.37.45:607][771]LogContentValidation: Display: Starting to validate 9 assets
+[2025.04.19-01.37.45:607][771]LogContentValidation: Enabled validators:
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.19-01.37.45:608][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.19-01.37.45:610][771]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.04.19-01.37.45:679][771]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1106.078491
+[2025.04.19-01.37.46:307][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.19-01.37.46:307][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1106.687988, Update Interval: 302.662445
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Content: 'D:/Chico folder/UE_5.5/Engine/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Developer/Concert/ConcertSync/ConcertSyncClient/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/CharacterFXEditor/BaseCharacterFXEditor/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/Animation/SkeletalMeshModelingTools/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/MetaHuman/MetaHumanSDK/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Interchange/Runtime/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Interchange/Assets/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Interchange/Assets/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Cameras/GameplayCameras/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/RigLogic/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/RigLogic/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/IKRig/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/DeformerGraph/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:415][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRigModules/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRig/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Animation/ACLPlugin/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/2D/Paper2D/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ToolPresets/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/EditorDataStorage/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:416][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/USDCore/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/USDCore/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/StateTree/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/StateTree/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/RigVM/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/RigVM/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/Metasound/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/NNE/NNEDenoiser/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Media/MediaPlate/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/FX/NiagaraSimCaching/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/FX/Niagara/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/UMGWidgetPreview/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/UVEditor/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/UVEditor/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/MeshLODToolset/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:417][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:418][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Bridge/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:418][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/Fab/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/Fab/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:418][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/TraceUtilities/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.36:418][826]SourceControl: fatal: D:/Chico folder/UE_5.5/Engine/Plugins/ChaosVD/Content: 'D:/Chico folder/UE_5.5/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/AJ/Desktop/School/GitHub_Test'
+[2025.04.19-01.38.57:438][826]LogSlate: Window 'Submit Files' being destroyed
+[2025.04.19-01.39.06:193][826]LogSourceControl: commit successful: [master debaf76] More cubes Deleted objects
+[2025.04.19-01.39.11:095][826]SourceControl: [master debaf76] More cubes Deleted objects
+[2025.04.19-01.39.11:095][826]SourceControl:  17 files changed, 0 insertions(+), 0 deletions(-)
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/BY/WRW8RYPIHJK2P0GHTGUODW.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/I5/XPEBJ3LY73Y8JAUR3E4OBB.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/79/UFPBL8B3J91A5MDWCNB051.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/EK/2PR3AJVY3ZW152LAEOJMT6.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IX/QNN58PPG6E8JWPU816NG5Q.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/IP/01D9NUSPXXISK0CKPYVUUR.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  delete mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.uasset
+[2025.04.19-01.39.11:095][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6T/2M661R8RTCFOPZ2MTZ4QCI.uasset
+[2025.04.19-01.39.11:096][826]SourceControl:  create mode 100644 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/4U/XRRLT5TGO6Y1M9D7UKMX4U.uasset
+[2025.04.19-01.39.11:129][826]SourceControl: Commited [master debaf76] More cubes Deleted objects.
+[2025.04.19-01.39.11:238][829]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.04.19-01.39.17:163][ 65]SourceControl: Error: fatal: invalid object name 'C'.
+[2025.04.19-01.39.17:163][ 65]LogSourceControl: Warning: UpdateHistory Failed.
